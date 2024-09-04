@@ -1,2 +1,2 @@
-# book
-My 2nd Project
+# book-review
+ Book Review Project
